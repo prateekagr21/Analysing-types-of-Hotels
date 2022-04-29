@@ -1,1 +1,2 @@
-# Analysing-types-of-Hotels
+# Analysing-types-of-Hotel
+And resorts
