@@ -1,4 +1,5 @@
 # Analysing-types-of-Hotel
 And resorts
 Plotting heatmaps
-K
+
+Visualizations on the way
