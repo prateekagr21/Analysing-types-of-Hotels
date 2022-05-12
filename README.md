@@ -9,5 +9,8 @@ almost done
 plotting extra but important visualisations
 Starting with feature engineering
 done with part 1
+
+.
+.
 Going for part 2
 
