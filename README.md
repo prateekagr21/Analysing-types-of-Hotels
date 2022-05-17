@@ -19,5 +19,6 @@ Going for part 2
 Part 3 starting now
 
 working on machine learning algorithms
+one regression algo done
 
 
