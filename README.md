@@ -21,4 +21,9 @@ Part 3 starting now
 working on machine learning algorithms
 one regression algo done
 
+Now using Ada boost classifier 
+
+and RandomForestClassifier
+
+
 
