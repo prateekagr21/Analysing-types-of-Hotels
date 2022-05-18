@@ -23,7 +23,7 @@ one regression algo done
 
 Now using Ada boost classifier 
 
-and RandomForestClassifier
+and RandomForestClassifiers
 
 
 
