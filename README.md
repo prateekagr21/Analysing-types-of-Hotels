@@ -25,5 +25,7 @@ Now using Ada boost classifier
 
 and RandomForestClassifiers
 
+getting the classification table
+
 
 
