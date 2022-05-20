@@ -27,5 +27,6 @@ and RandomForestClassifiers
 
 getting the classification table
 
+writing conclusions today!
 
 
