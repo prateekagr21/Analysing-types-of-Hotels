@@ -28,5 +28,7 @@ and RandomForestClassifiers
 getting the classification table
 
 writing conclusions today!
+will be updating readme tomorrow
+
 
 
