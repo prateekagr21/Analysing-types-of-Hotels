@@ -45,6 +45,7 @@ permissive._
 - Made Binary Classifications Using Label Encoder and Standard Scaler
 <br> To fit and transform Numerical and Categorical Column values.
 
+
 ## And then I made my model for the Prediction :
 ![model training](https://user-images.githubusercontent.com/73397927/169656578-b86ee241-4d60-458a-a97f-43c630789b4a.jpg)
 - Did data processing
@@ -52,8 +53,42 @@ permissive._
 - Did Train-Test split
 
 
+# Trained my Model using :
+- _Logistic Regresson_
+- _Random Forest Classifier_
+- _Ada Boost Classifier_
+
 ![hotel1](https://user-images.githubusercontent.com/73397927/170518557-2cbce66f-181e-4c94-9081-8095b3b7522a.jpg)
+
+## _Random Forest Classifier_
+
+- Predicted for the data
+- Finded Accuracy score
+- Plotted Confusion Matrix
+- And at last, Classification report.
+- And Analyzed the key factors responsible for prediction.
+
+## _Logistic Regression_
+
+- Predicted for the data
+- Finded Accuracy score
+- Plotted Confusion Matrix
+- And at last, Classification report.
+
+
+## _Ada boost Classifier_
+
+- Predicted for the data
+- Finded Accuracy score
+- Plotted Confusion Matrix
+- And at last, Classification report.
+ 
+
 ![hotel3](https://user-images.githubusercontent.com/73397927/170518605-b9ad01b5-bbf5-4266-8a6e-8fc56620447b.jpg)
+
+## _And for the conclusion -_
+#### _From the above Three trained Models, It can be seen that <br> With the Accuracy of around 96%, <br> the Ada Boost model performed slightly better than rest of the Models._
+---
 
 
 
