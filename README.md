@@ -14,7 +14,7 @@ tactics, which in turn can have a negative impact on revenue and on the hotel re
 _Now, as hotel chains consolidate, last-minute booking apps proliferate, and short-term rental sites
 like Airbnb and HomeAway grow, experts say the reservations landscape is undergoing an upheaval
 with new and higher fees and new restrictions on reservations that are driving new sources of
-revenue._
+revenue!!_
 
 _A lot can be done with revenue management techniques when it comes to rates restrictions, like
 increasing the number of days until the arrival date that the customer can cancel without cost, giving
